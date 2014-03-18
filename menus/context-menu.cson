@@ -1,0 +1,5 @@
+'context-menu':
+  '.tree-view':
+    'key': 'action'
+  '.workspace':
+    'key': 'action'

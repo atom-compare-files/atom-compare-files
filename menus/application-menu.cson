@@ -1,0 +1,16 @@
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      {
+        'label': 'My Package'
+        'submenu': [
+          {
+            'label': 'yourLabel'
+            'command': 'my-package:toggle'
+          }
+        ]
+      }
+    ]
+  }
+]
