@@ -1,2 +1,2 @@
 '.workspace':
-  'shortcut-key': 'action'
+  'cmd-ctrl-c': 'compare-files:compare'

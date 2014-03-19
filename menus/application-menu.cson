@@ -3,11 +3,11 @@
     'label': 'Packages'
     'submenu': [
       {
-        'label': 'My Package'
+        'label': 'Compare Files'
         'submenu': [
           {
-            'label': 'yourLabel'
-            'command': 'my-package:toggle'
+            'label': 'Compare'
+            'command': 'compare-files:compare'
           }
         ]
       }

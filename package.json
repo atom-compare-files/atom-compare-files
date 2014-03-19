@@ -1,14 +1,17 @@
 {
   "name": "compare-files",
   "main": "./lib/compare-files",
-  "version": "0.0.0",
-  "description": "Compares two files and shows the diff",
+  "version": "0.0.1",
+  "description": "Compares two files and show the diff",
   "license": "MIT",
   "private": true,
-  "repository": "https://github.com/floydpink/compare-files",
+  "repository": "https://github.com/floydpink/atom-compare-files",
   "engines": {
     "atom": ">0.61.0"
   },
   "dependencies": {
+    "diff": "^1.0.8",
+    "lodash": "^2.4.1",
+    "temp": "^0.7.0"
   }
 }
