@@ -12,6 +12,7 @@
   "dependencies": {
     "diff": "^1.0.8",
     "lodash": "^2.4.1",
-    "temp": "^0.7.0"
+    "temp": "^0.7.0",
+    "language-diff": "git+https://github.com/miketheman/language-diff.git"
   }
 }
