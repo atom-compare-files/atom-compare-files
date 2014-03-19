@@ -7,10 +7,14 @@ Install the module with: `apm install compare-files`
 
 ## Usage
 
-![Screencast](http://i.imgur.com/HTkJnCv.gif)
+1. Click on the two files that are to be compared in the tree view
+2. Invoke the command using any of the below:
+  1. From Command Palette (<kbd>⌘</kbd>+<kbd>⌂</kbd>+<kbd>P</kbd>) invoke `Compare Files: Compare`
+  2. Right click on one of the selected files and choose `Compare Files`
+  3. Use the keyboard shortcut - <kbd>⌘</kbd>+<kbd>⌃</kbd>+<kbd>C</kbd>
 
-## Release History
-_(Nothing yet)_
+
+![Screencast](http://i.imgur.com/HTkJnCv.gif)
 
 ## License
 Copyright (c) 2014 floydpink. Licensed under the MIT license.
