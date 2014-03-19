@@ -7,7 +7,7 @@ Install the module with: `apm install compare-files`
 
 ## Usage
 
-
+![Screencast](http://i.imgur.com/HTkJnCv.gif)
 
 ## Release History
 _(Nothing yet)_
