@@ -14,7 +14,7 @@ Install the module with: `apm install compare-files`
   3. Use the keyboard shortcut - <kbd>⌘</kbd>+<kbd>⌃</kbd>+<kbd>C</kbd>
 
 
-![Screencast](http://i.imgur.com/2Hhw1VJ.gif)
+![Screencast](http://i.imgur.com/1VBTGTy.gif)
 
 ## License
 Copyright (c) 2014 floydpink. Licensed under the MIT license.
