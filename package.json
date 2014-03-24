@@ -1,7 +1,7 @@
 {
   "name": "compare-files",
   "main": "./lib/compare-files",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "description": "Compares two files and show the diff",
   "license": "MIT",
   "private": true,
