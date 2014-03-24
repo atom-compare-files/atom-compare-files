@@ -22,23 +22,24 @@
 }
 
 .compare-files {
-  padding-left     : 40px;
+  padding-left     : 60px;
   overflow         : auto;
   background-color : #1d1f21;
   width            : auto;
   counter-reset    : linenumbers;
 }
 
-.compare-files > span:before, .compare-files > ins:before, .compare-files > del:before {
+.compare-files span:before, .compare-files ins:before, .compare-files del:before {
   content           : counter(linenumbers);
   counter-increment : linenumbers;
   position          : absolute;
-  left              : 6px;
+  left              : 0;
   color             : #555;
-  width             : 2.5ex;
+  width             : 60px;
+  text-align        : center;
 }
 
-.compare-files > span, .compare-files > ins, .compare-files > del {
+.compare-files span, .compare-files ins, .compare-files del {
   display          : block;
   white-space      : pre-wrap;
   text-decoration  : none;
