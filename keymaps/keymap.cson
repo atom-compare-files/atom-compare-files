@@ -1,10 +1,10 @@
 # keymaps for OSX
-'.platform-darwin .workspace':
+'.platform-darwin atom-workspace':
   'cmd-ctrl-c': 'compare-files:compare'
 
 # commands for windows and Linux due to their lack of an cmd key
-'.platform-win32 .workspace':
+'.platform-win32 atom-workspace':
   'ctrl-alt-c': 'compare-files:compare'
 
-'.platform-linux .workspace':
+'.platform-linux atom-workspace':
   'ctrl-alt-c': 'compare-files:compare'
