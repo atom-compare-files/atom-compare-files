@@ -2,6 +2,9 @@
 
 Compares two files and shows the diff
 
+## UPDATE (05/28/2015)
+As I do not use atom as my primary editor anymore and the fact that I do not have enough time to devote to this, I have unpublished the package from atom packages and will not be maintaining this package anymore.
+
 ## Getting Started
 Install the module with: `apm install compare-files`
 
