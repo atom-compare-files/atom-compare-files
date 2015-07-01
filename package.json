@@ -13,6 +13,7 @@
     "diff": "^1.2.0",
     "lodash": "^2.4.1",
     "node-html-encoder": "0.0.2",
-    "temp": "^0.8.1"
+    "temp": "^0.8.1",
+    "atom-space-pen-views": "2.0.5"
   }
 }
