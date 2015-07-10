@@ -1,4 +1,4 @@
 'context-menu':
   '.tree-view.multi-select': [
-    {label:'Compare Files     (⌘⌃C)', command:'compare-files:compare'}
+    {label:'Compare Files', command:'compare-files:compare'}
   ]

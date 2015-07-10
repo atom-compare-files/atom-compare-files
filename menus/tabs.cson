@@ -1,0 +1,4 @@
+'context-menu':
+  '.tab': [
+    {label:'Compare Files     (⌘⌃C)', command:'compare-files:compare'}
+  ]
