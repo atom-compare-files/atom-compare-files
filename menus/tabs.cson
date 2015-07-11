@@ -1,4 +1,5 @@
 'context-menu':
   '.tab': [
     {label:'Compare Files', command:'compare-files:compare'}
+    {type: 'separator'}
   ]
