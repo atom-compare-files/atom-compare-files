@@ -5,7 +5,7 @@
   "description": "Compares two files and show the diff",
   "license": "MIT",
   "private": true,
-  "repository": "https://github.com/floydpink/atom-compare-files",
+  "repository": "https://github.com/atom-compare-files/atom-compare-files",
   "engines": {
     "atom": ">0.61.0"
   },
